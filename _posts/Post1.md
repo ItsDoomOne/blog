@@ -1,6 +1,8 @@
 ---
+layout: post.njk
 title: 31/08/2025/1  - Testes do 11ty
 tags: posts
+
 ---
 # {{ title }}
 
