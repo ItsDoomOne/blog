@@ -13,7 +13,7 @@ Sou um grande fã de Deltarune!
 ## Posts
 
 {% for post in collections.posts %}
-- [{{ post.data.title }}]({{ post.url }})
+- [{{ post.data.title }}]({{ post.url | url }})
 {% endfor %}
 
 _Criado por Leo utilizando {{ eleventy.generator }}_
