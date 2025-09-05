@@ -14,6 +14,6 @@ Até ai eu deixei esse negocio de 67 de lado, porem outro dia eu estava discutin
 Na minha mente isso só deixou duas opções: ou a minha sala sabe espalhar merda pela cidade, ou não era sobre nós, então pesquisei mais. \
 Encontrei algumas teorias sobre o que poderia se tratar o 67, uma delas foi o seguinte: \
 MANGOS -> 6 e MUSTARD -> 7, que ficaria 67 em junção direta. \
-Também li sobre um rapper (Skrilla) ter feito uma musica que continha o 67, mas que nao faz sentido na própria musica. \
+Também li sobre um rapper (Skrilla) ter feito uma musica que continha o 67, mas que nao faz sentido na própria musica. 
 
 Isso só levantou mais questões do que antes era somente uma: O que é 67? 
