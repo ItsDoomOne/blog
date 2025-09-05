@@ -2,7 +2,6 @@
 layout: post.njk
 title: 04/09/2025/2 - Testes do 11ty resumidos pq ta instavel vai se fuderrrrr
 date: "2025-09-04T21:29:00Z"
-order: 1
 tags: posts
 ---
 # {{ title }}
