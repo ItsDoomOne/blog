@@ -2,7 +2,6 @@
 layout: post.njk
 title: 31/08/2025/2 - Outro testes do 11ty
 date: "2025-08-31T14:31:00Z"
-order: 1
 tags: posts
 ---
 # {{ title }}
