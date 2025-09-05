@@ -1,6 +1,8 @@
 ---
 layout: post.njk
 title: 04/09/2025/1 - Testes do 11ty finalizados!!!
+date: 2025-09-04
+order: 1
 tags: posts
 ---
 # {{ title }}
