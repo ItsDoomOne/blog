@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: 31/08/2025/1  - Testes do 11ty
-date: "2023-08-31T14:30:00Z"
+date: "2025-08-31T14:30:00Z"
 tags: posts
 
 ---
