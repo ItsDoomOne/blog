@@ -12,7 +12,7 @@ Sou um grande fã de Deltarune!
 
 ## Posts
 
-{% for post in collections.posts %}
+{% for post in collections.posts | reverse %}
 - [{{ post.data.title }}]({{ post.url | url }})
 {% endfor %}
 
