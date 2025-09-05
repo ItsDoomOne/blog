@@ -2,5 +2,8 @@
   "scripts": {
     "build": "npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve"
+  },
+  "dependencies": {
+    "@mightyplow/eleventy-plugin-cache-buster": "^1.1.3"
   }
 }
