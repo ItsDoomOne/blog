@@ -1,6 +1,8 @@
 ---
 layout: post.njk
 title: 31/08/2025/2 - Outro testes do 11ty
+date: 2025-08-31
+order: 2
 tags: posts
 ---
 # {{ title }}
