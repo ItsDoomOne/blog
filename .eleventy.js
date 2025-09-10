@@ -7,6 +7,5 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByTag("posts").sort((a, b) => b.date - a.date);
   });
   return {
-    pathPrefix: "/blog/",
   };
 };
