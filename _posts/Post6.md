@@ -6,7 +6,7 @@ tags: posts
 ---
 # {{ title }}
 
-### Resumo: que porra???
+### Resumo: que???
 
 Ontem eu estive na festa de 15 anos de uma amiga minha, com mais uma galera maneira. \
 Tinha *a jedi*, o torre e o resto do grupo do C8. \
