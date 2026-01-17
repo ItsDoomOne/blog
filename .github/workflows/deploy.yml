@@ -19,8 +19,8 @@ jobs:
       - run: npx @11ty/eleventy
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v6
+        uses: peaceiris/actions-gh-pages@v3 ## V3 THE GOAT
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          cname: blog.leohacker.org   # <-- this sets your custom domain automatically
+          cname: blog.leohacker.org
