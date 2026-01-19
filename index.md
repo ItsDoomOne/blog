@@ -1,14 +1,12 @@
 ---
 layout: base.njk
-title: Bem-vindo ao Blog do Leo
+title: Bem-vindo ao meu blog!
 ---
 
-# Bem-vindo ao Blog do Leo
-
-Olá, eu sou o Leo, eu postava bizarrices no meu site e agora tô movendo para esse blog!  
-Conheço muita gente, e talvez você seja uma delas. Se não, aqui estão algumas informações sobre mim:  
-Eu uso Arch Linux, sou nerd de programação e gasto meu tempo jogando Operius DX (obrigado Mors)  
-Sou um grande fã de Deltarune!
+# Bem-vindo ao meu blog!
+Opa, meu nome é Leonardo e esse é o meu blog pessoal.
+Eu criei faz alguns meses para documentar minha vida na programação e no TI.
+Eu não tenho nenhum motivo para manter esse site, mas mesmo assim, eu faço.
 
 ## Posts
 
